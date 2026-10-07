@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔧 DevOps Engineer with ~9 years in IT, 5 of them in DevOps
+- 🔧 DevOps Engineer with ~10 years in IT, 5 of them in DevOps
 - ☁️ Building and running cloud infra on **Azure** with **Terraform**, **AKS**, and **ArgoCD** (GitOps)
 - 🔁 CI/CD with **GitHub Actions** and **Azure DevOps** pipelines, with DevSecOps baked in
 - 📡 Telecom/IMS roots: SIP, EMS, IMS infrastructure, Mavenir, AudioCodes, Polycom
