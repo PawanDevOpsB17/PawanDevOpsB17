@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Pawan 👋</h1>
-<h3 align="center">DevOps Engineer | Azure • Kubernetes • Terraform • GitOps</h3>
+<!-- Animated waving header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:7B42BC,100:326CE5&height=220&section=header&text=Hi%2C%20I'm%20Pawan%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Azure%20•%20Kubernetes%20•%20Terraform%20•%20GitOps&descAlignY=60&descSize=18" width="100%" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/PawanDevOpsB17">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+cloud+infra+on+Azure+☁️;Shipping+with+Terraform+%2B+ArgoCD+(GitOps)+🔁;Running+workloads+on+AKS+☸️;Debugging+SIP+traces+%26+IMS+📡;Building+Agentic+AI+for+DevSecOps+🤖" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=flat-square" />
@@ -22,26 +31,21 @@
 
 ## 🛠️ Tech Stack
 
-**Cloud & IaC**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,githubactions,grafana,prometheus,python,bash,linux,git&perline=11" />
+</p>
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**Containers & Orchestration**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-**CI/CD**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-**Observability**
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
 
 ---
 
@@ -62,6 +66,26 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanDevOpsB17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PawanDevOpsB17&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanDevOpsB17&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PawanDevOpsB17/PawanDevOpsB17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PawanDevOpsB17/PawanDevOpsB17/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/PawanDevOpsB17/PawanDevOpsB17/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 📫 Let's Connect
@@ -76,3 +100,8 @@
 </p>
 
 <p align="center"><i>Always up for talking Kubernetes, GitOps, or SIP traces 🙂</i></p>
+
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,50:7B42BC,100:0078D4&height=120&section=footer" width="100%" />
+</p>
